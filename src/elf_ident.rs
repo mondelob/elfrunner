@@ -1,5 +1,5 @@
 /* elf_ident.rs defines the structure of an ELF ident section
- * Copyright (C) <year>  <name of author>
+ * Copyright (C) 2019  Bruno Mondelo Giaramita
 
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
